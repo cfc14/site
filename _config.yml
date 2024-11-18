@@ -12,7 +12,7 @@ title                    : "Shankruth Balasubramaniyam"
 title_separator          : "-"
 name                     : &name "Shankruth Balasubramaniyam"
 description              : &description "Aspiring roboticist passionate about autonomous systems, blending interdisciplinary research and innovation to tackle real-world challenges"
-url                      : "https://github.com/cfc14/site" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cfc14.github.io/site/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/site" # the subpath of your site, e.g. "/blog"
 repository               : "cfc14/site"
 
