@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 #### Shankruth Balasubramaniyam-Robotics researcher
-I am Shankruth, a robotics enthusiast and researcher, currently pursuing my passion for creating innovative solutions in robotics. My journey is inspired by a vision to solve real-world challenges through intelligent systems, particularly in dynamic environments like maritime settings and multi-agent robotics.
+I am not Shankruth, a robotics enthusiast and researcher, currently pursuing my passion for creating innovative solutions in robotics. My journey is inspired by a vision to solve real-world challenges through intelligent systems, particularly in dynamic environments like maritime settings and multi-agent robotics.
 
 ### Highlights of My Work
 - **Autonomous Maritime Systems:** Developed multi-agent ASV systems for harbor protection, using deep reinforcement learning to enhance pursuit-evasion strategies.
